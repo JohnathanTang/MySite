@@ -18,9 +18,14 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'I\'m a computer engineering graduate from the University of California, Irvine. I have 4 years of experience\
+  in the Information Technology industry, primarily in a Desktop Support Analyst role.',
+  paragraphTwo: 'I also completed 2 internship programs with Arup as a Digital Technology intern. As an intern, I was involved\
+  with the Long Island Railroad Expansion project as it pertains to finding sustainable, digital solutions. Our intern team\
+   collaborated with our business advisors to propose a public-private partnership between the MTA and the private sector. I also \
+   coordinated with the software engineer team to design, develop, and test back-end data for a digital dashboard.',
+  paragraphThree: 'In addition to my professional experience, I have a solid foundation for programming and software development as I have \
+  completed coursework and projects in Python, C, C++, HTML, Javascript, and SQL.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
