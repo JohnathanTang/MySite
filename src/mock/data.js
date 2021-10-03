@@ -26,7 +26,7 @@ export const aboutData = {
    coordinated with the software engineer team to design, develop, and test back-end data for a digital dashboard.',
   paragraphThree: 'In addition to my professional experience, I have a solid foundation for programming and software development as I have \
   completed coursework and projects in Python, C, C++, HTML, Javascript, and SQL.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume:'/files/Resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
