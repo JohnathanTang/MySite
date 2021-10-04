@@ -29,13 +29,13 @@ export const aboutData = {
   resume:'/Resume.pdf', // if no resume, the button will not show up
 };
 
-var mystr = '2021 Dean\'s Choice Award'
+
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
     img: 'rorrim.jpg',
-    title: 'RORRIM: Health-Centric Smart Mirror\n'+mystr.fontcolor("blue")+'\n',
+    title: 'RORRIM: Health-Centric Smart Mirror\n2021 Dean\'s Choice Award',
     info: 'For our senior design project, our team designed, developed, and constructed a health-centric smart mirror that incorporates smart devices and machine learning \
     to promote a healthy lifestyle.',
     info2: 'My responsibility included backend data management, migration, and synchronization using Fitbit API and Python.',
