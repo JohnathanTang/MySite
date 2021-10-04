@@ -44,7 +44,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'irrigation.png',
+    img: 'irrigation.jpg',
     title: 'Atmosphere Monitoring System',
     info: '',
     info2: '',
