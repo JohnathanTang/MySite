@@ -46,9 +46,11 @@ export const projectsData = [
     id: nanoid(),
     img: 'irrigation.jpg',
     title: 'Atmosphere Monitoring System',
-    info: '',
-    info2: '',
-    url: '',
+    info: 'This project includes a Raspberry Pi based IoT device that aims to mimic a weather monitoring system. This included the use of a DHT-11 sensor \
+    to check local temperature and humidity once per minute for 24 hours. The data used in this system will decide how much water is necessary to irrigate \
+    and toggle a virtual sprinkler system.',
+    info2: 'The system will simulate irrigation once per hour and turn back off after the amount of time needed to deliver the necessary amount of water.',
+    url: '/113_Project_Report.pdf',
     repo: 'https://github.com/JohnathanTang/EECS113-Processor-Hardware-Software-Interfaces/tree/main/113_FinalProject', // if no repo, the button will not show up
   },/* 
   {
