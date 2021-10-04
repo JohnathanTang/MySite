@@ -33,14 +33,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'rorrim.png',
+    title: 'RORRIM: Health-Centric Smart Mirror',
+    info: 'For our senior design project, our team designed, developed, and constructed a health-centric smart mirror that incorporates smart devices and machine learning \
+    to promote a healthy lifestyle.',
+    info2: 'My responsibility included backend data management, migration, and synchronization using Fitbit API and Python.',
+    url: 'https://escholarship.org/uc/item/7ps471h7',
+    repo: 'https://github.com/JohnathanTang/RORRIM-Health-Centric-Smart-Mirror', // if no repo, the button will not show up
   },
-  {
+/*   {
     id: nanoid(),
     img: 'project.jpg',
     title: '',
@@ -57,7 +58,7 @@ export const projectsData = [
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+  }, */
 ];
 
 // CONTACT DATA
