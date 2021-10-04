@@ -75,7 +75,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/johnathanntang',
     },
     {
       id: nanoid(),
@@ -85,12 +85,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/johnathan-tang-452241173/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/JohnathanTang',
     },
   ],
 };
