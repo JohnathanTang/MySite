@@ -35,7 +35,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'rorrim.jpg',
-    title: 'RORRIM: Health-Centric Smart Mirror\n2021 Dean\'s Choice Award',
+    title: 'RORRIM: Health-Centric Smart Mirror',
     info: 'For our senior design project, our team designed, developed, and constructed a health-centric smart mirror that incorporates smart devices and machine learning \
     to promote a healthy lifestyle.',
     info2: 'My responsibility included backend data management, migration, and synchronization using Fitbit API and Python.',
@@ -64,9 +64,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: 'johnathantang1996@gmail.com',
+  btn: 'Email',
+  email: 'johnathantang1996@gmail.com',
 };
 
 // FOOTER DATA
