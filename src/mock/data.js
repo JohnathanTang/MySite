@@ -25,7 +25,7 @@ export const aboutData = {
    collaborated with our business advisors to propose a public-private partnership between the MTA and the private sector. I also \
    coordinated with the software engineer team to design, develop, and test back-end data for a digital dashboard.',
   paragraphThree: 'In addition to my professional experience, I have a solid foundation for programming and full-stack development as I have \
-  completed coursework and projects in Python, C, C++, HTML, Javascript, and SQL.',
+  completed projects in Python, C, C++, Java, Javascript, and SQL.',
   resume:'/Resume.pdf', // if no resume, the button will not show up
 };
 
@@ -33,7 +33,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'rorrim.png',
+    img: 'rorrim.jpg',
     title: 'RORRIM: Health-Centric Smart Mirror',
     info: 'For our senior design project, our team designed, developed, and constructed a health-centric smart mirror that incorporates smart devices and machine learning \
     to promote a healthy lifestyle.',
