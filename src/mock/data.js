@@ -79,8 +79,8 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'instagram',
+      url: 'https://www.instagram.com/j.tvng/',
     },
     {
       id: nanoid(),
