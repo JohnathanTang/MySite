@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I\'m a computer engineering graduate from the University of California, Irvine. I have 4 years of experience\
+  paragraphOne: 'Hello! My name is Johnathan and I\'m a computer engineering graduate from the University of California, Irvine. I have 4 years of experience\
   in the Information Technology industry, primarily in a Desktop Support Analyst role.',
   paragraphTwo: 'I also completed 2 internship programs with Arup as a Digital Technology intern. As an intern, I was involved\
   with the Long Island Railroad Expansion project as it pertains to finding sustainable, digital solutions. Our intern team\
