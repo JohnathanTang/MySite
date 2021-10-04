@@ -42,15 +42,15 @@ export const projectsData = [
     url: 'https://escholarship.org/uc/item/7ps471h7',
     repo: 'https://github.com/JohnathanTang/RORRIM-Health-Centric-Smart-Mirror', // if no repo, the button will not show up
   },
-/*   {
+  {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'irrigation.png',
+    title: 'Atmosphere Monitoring System',
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+    repo: 'https://github.com/JohnathanTang/EECS113-Processor-Hardware-Software-Interfaces/tree/main/113_FinalProject', // if no repo, the button will not show up
+  },/* 
   {
     id: nanoid(),
     img: 'project.jpg',
