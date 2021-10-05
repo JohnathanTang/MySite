@@ -43,9 +43,7 @@ const Projects = () => {
                     <div className="project-wrapper__text">
                       <h3 className="project-wrapper__text-title">{title || 'Project Title'}</h3>
                       <p>
-                        <font color = {blue}>
-                        <h3 className="project-wrapper_text-title">{subtitle || ''}</h3>
-                        </font>
+                        <h3 className="text-color-main">{subtitle || ''}</h3>
                         </p>
                       <div>
                         <p>
