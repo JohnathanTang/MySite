@@ -36,6 +36,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'rorrim.jpg',
     title: 'RORRIM: Health-Centric Smart Mirror',
+    subtitle: '2021 Dean\'s Choice Award',
     info: 'For our senior design project, our team designed, developed, and constructed a health-centric smart mirror that incorporates smart devices and machine learning \
     to promote a healthy lifestyle.',
     info2: 'My responsibility included backend data management, migration, and synchronization using Fitbit API and Python.',
