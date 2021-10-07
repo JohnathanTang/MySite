@@ -89,8 +89,7 @@ const Projects = () => {
                         aria-label="Project Link"
                         rel="noopener noreferrer"
                       >
-                        <Image src = {img}/>
-                        {/* <Tilt
+                        <Tilt
                           options={{
                             reverse: false,
                             max: 8,
@@ -106,7 +105,7 @@ const Projects = () => {
                           <div data-tilt className="thumbnail rounded">
                             <ProjectImg alt={title} filename={img} />
                           </div>
-                        </Tilt> */}
+                        </Tilt>
                       </a>
                     </div>
                   </Fade>
