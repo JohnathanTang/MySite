@@ -53,16 +53,16 @@ export const projectsData = [
     info2: 'The system will simulate irrigation once per hour and turn back off after the amount of time needed to deliver the necessary amount of water.',
     url: '/113_Project_Report.pdf',
     repo: 'https://github.com/JohnathanTang/EECS113-Processor-Hardware-Software-Interfaces/tree/main/113_FinalProject', // if no repo, the button will not show up
-  },/* 
+  },/
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'chess.jpg',
+    title: 'ZotChess',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  }, */
+    url: './chess.pdf',
+    repo: 'https://github.com/JohnathanTang/EECS-22-22L-Software-Engineering-in-C/tree/main/ZotChess', // if no repo, the button will not show up
+  }, 
 ];
 
 // CONTACT DATA
