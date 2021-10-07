@@ -103,7 +103,7 @@ const Projects = () => {
                           }}
                         >
                           <div data-tilt className="thumbnail rounded">
-                            <ProjectImg alt={title} filename={img} />
+                            <ProjectImg alt={title} filename={img} height="100" width="100" />
                           </div>
                         </Tilt>
                       </a>
