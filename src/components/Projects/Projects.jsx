@@ -94,7 +94,7 @@ const Projects = () => {
                             reverse: false,
                             max: 8,
                             perspective: 1000,
-                            scale: 0.5,
+                            scale: 1,
                             speed: 300,
                             transition: true,
                             axis: null,
