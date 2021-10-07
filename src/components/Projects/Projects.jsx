@@ -94,7 +94,7 @@ const Projects = () => {
                             reverse: false,
                             max: 8,
                             perspective: 1000,
-                            scale: 1,
+                            scale: 0.5,
                             speed: 300,
                             transition: true,
                             axis: null,
@@ -103,7 +103,7 @@ const Projects = () => {
                           }}
                         >
                           <div data-tilt className="thumbnail rounded">
-                            <ProjectImg alt={title} filename={img} style={{width:150,height:150}} />
+                            <ProjectImg alt={title} filename={img} />
                           </div>
                         </Tilt>
                       </a>
