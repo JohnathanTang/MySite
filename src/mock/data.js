@@ -60,7 +60,7 @@ export const projectsData = [
     title: 'ZotChess',
     info: '',
     info2: '',
-    url: './chess.pdf',
+    url: '/chess.pdf',
     repo: 'https://github.com/JohnathanTang/EECS-22-22L-Software-Engineering-in-C/tree/main/ZotChess', // if no repo, the button will not show up
   }, 
 ];
