@@ -58,8 +58,11 @@ export const projectsData = [
     id: nanoid(),
     img: 'chess.jpg',
     title: 'ZotChess',
-    info: '',
-    info2: '',
+    info: 'This was a 5-week project for my Advanced C Programming course that simulates a hands-on and real-world software engineering enviornment. \
+    This particular project emphasized team collaboration, project deadlines, and developing software documentation. Our objective was to design, develop, and test \
+    a full-stack iteration of the traditional board game, Chess.',
+    info2: 'Our primary data structure is a 2D int array that holds integers that correspond to the pieces of chess. My role was to design a function that validates \
+    user input/move as it pertains to the rules of chess. Based on the validiity of the user\'s input, my function returns a boolean value to the GUI.',
     url: '/chess.pdf',
     repo: 'https://github.com/JohnathanTang/EECS-22-22L-Software-Engineering-in-C/tree/main/ZotChess', // if no repo, the button will not show up
   }, 
