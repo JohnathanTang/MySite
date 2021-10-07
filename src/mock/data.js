@@ -47,6 +47,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'irrigation.jpg',
     title: 'Atmosphere Monitoring System',
+    subtitle: 'Tools: Python, Linux/Unix, Raspberry PI I/O',
     info: 'This project includes a Raspberry Pi based IoT device that aims to mimic a weather monitoring system. This included the use of a DHT-11 sensor \
     to check local temperature and humidity once per minute for 24 hours. The data used in this system will decide how much water is necessary to irrigate \
     and toggle a virtual sprinkler system.',
@@ -58,6 +59,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'chess.jpg',
     title: 'ZotChess',
+    subtitle: 'Tools: C, GTK, Linux/Unix, XMing',
     info: 'This was a 5-week project for my Advanced C Programming course that simulates a hands-on and real-world software engineering enviornment. \
     This particular project emphasized team collaboration, project deadlines, and developing software documentation. Our objective was to design, develop, and test \
     a full-stack iteration of the traditional board game, Chess.',
