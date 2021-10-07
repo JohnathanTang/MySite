@@ -53,7 +53,7 @@ export const projectsData = [
     info2: 'The system will simulate irrigation once per hour and turn back off after the amount of time needed to deliver the necessary amount of water.',
     url: '/113_Project_Report.pdf',
     repo: 'https://github.com/JohnathanTang/EECS113-Processor-Hardware-Software-Interfaces/tree/main/113_FinalProject', // if no repo, the button will not show up
-  },/
+  },
   {
     id: nanoid(),
     img: 'chess.jpg',
